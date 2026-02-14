@@ -49,6 +49,9 @@
 // File I/O for writing diagnostic output
 #include <fstream>
 
+// std::floor for slice index computation.
+#include <cmath>
+
 // I/O manipulators for output precision control
 #include <iomanip>
 

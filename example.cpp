@@ -19,6 +19,7 @@
 
 // Headers for basic PETSc functions
 #include <petscsys.h>
+#include <cstdio>
 
 // Headers for basic SAMRAI objects
 #include <BergerRigoutsos.h>
