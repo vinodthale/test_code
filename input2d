@@ -88,7 +88,7 @@ IBHierarchyIntegrator {
    dt_max         = DT_MAX
    num_cycles     = NUM_INS_CYCLES
    delta_fcn      = DELTA_FUNCTION
-   enable_loging  = ENABLE_LOGGING
+   enable_logging = ENABLE_LOGGING
 }
 
 ConstraintIBMethod {

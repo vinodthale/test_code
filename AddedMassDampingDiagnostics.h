@@ -40,6 +40,9 @@
 // IBAMR/TBOX database interface for reading parameters from input2d.
 #include <tbox/Database.h>
 
+// Base class for lightweight utility/diagnostic objects.
+#include <tbox/DescribedClass.h>
+
 // Smart pointer wrapper used throughout IBAMR.
 #include <tbox/Pointer.h>
 
